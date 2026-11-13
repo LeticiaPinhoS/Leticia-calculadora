@@ -1,3 +1,4 @@
+
 name: Análise Estática - Java
 
 on:
@@ -25,3 +26,4 @@ jobs:
           VALIDATE_JAVA: true
           VALIDATE_ALL_CODEBASE: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
