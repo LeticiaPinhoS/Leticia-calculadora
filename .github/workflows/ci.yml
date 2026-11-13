@@ -1,4 +1,4 @@
-name: Calculadora
+name: Testes Automatizados Calculadora
 on:
     push:
 jobs:
